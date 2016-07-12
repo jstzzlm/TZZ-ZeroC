@@ -1,0 +1,6 @@
+#ifndef TZZEROC_TZOSFACADE_TZOSFACADE_H
+#define TZZEROC_TZOSFACADE_TZOSFACADE_H
+
+#include "TzHeap.h"
+
+#endif

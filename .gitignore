@@ -31,3 +31,12 @@
 # Debug files
 *.dSYM/
 *.su
+
+# build dir
+build/
+
+# VS2012 files
+*.opensdf
+*.sdf
+*.suo
+*.user
